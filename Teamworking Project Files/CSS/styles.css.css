@@ -1,0 +1,70 @@
+/*general styles*/
+h1 {
+    color:red;
+    font-family:serif;
+    
+}
+
+
+
+
+
+/*Styling for the navbar */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+}
+
+h2{
+    color:red;
+    font-family:serif;
+}
+
+p {
+    font-size:24px;
+} 
+
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+    background-color: darkred;
+    color: red;
+}
+
+body{
+    width:1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sector{
+    background-color: red;
+    color: white;
+    text-align: left;
+}
+
+
+footer {
+    background-color: red;
+    
+}
+
+.aboutContent{
+    background-color: red;
+    color:white;
+} 
