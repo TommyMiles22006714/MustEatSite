@@ -61,10 +61,23 @@ body{
 
 footer {
     background-color: red;
+    font-size: 30px;
+    color: white;
     
+}
+
+.contact{
+    background-color: red;
+    float:left;
+}
+
+.thanks{
+    background-color: red;
+    float:right;
 }
 
 .aboutContent{
     background-color: red;
     color:white;
+    height: 500px;
 } 
