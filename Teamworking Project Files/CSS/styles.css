@@ -67,18 +67,8 @@ footer {
     width:auto;
 }
 
-.contact{
-    background-color: red;
-    float:left;
-    display:inline;
-    color:white;
-}
-
-.thanks{
-    background-color: blue;
-    float:left;
-    display:inline;
-    color:white;
+.heading{
+    font-size: 62px;
 }
 
 .footerContainer{
@@ -100,3 +90,8 @@ footer {
     color:white;
     height: 500px;
 } 
+
+.homeDiv{
+    height:400px;
+    
+}
