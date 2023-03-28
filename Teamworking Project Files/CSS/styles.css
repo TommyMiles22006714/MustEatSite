@@ -63,18 +63,37 @@ footer {
     background-color: red;
     font-size: 30px;
     color: white;
-    
+    display:block;
+    width:auto;
 }
 
 .contact{
     background-color: red;
     float:left;
+    display:inline;
+    color:white;
 }
 
 .thanks{
-    background-color: red;
-    float:right;
+    background-color: blue;
+    float:left;
+    display:inline;
+    color:white;
 }
+
+.footerContainer{
+    display: block;
+    background-color: red;
+}
+
+.footerChild{
+    background-color: red;
+    color:white;
+    float:left;
+    width:50%;
+    height:100px;
+}
+
 
 .aboutContent{
     background-color: red;
